@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    background-image: url(red-light-blue-gradient-background-260nw-1508143130.webp);
+}
+
+.center{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(104, 20, 20);
+}
+
+h2{
+    text-align: center;
+    color: blue;
+}
+
+
+
+
+button{
+    border-radius: 6px;
+}
+
+button:hover{
+    background-color: blue;
+    border: 3px solid red;
+    transition: 0.3s ease-out;
+    cursor: pointer;
+}
+
+
+
+input{
+    color: blue;
+}
