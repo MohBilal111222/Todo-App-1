@@ -1,6 +1,7 @@
 body{
     background-color: black;
-    background-image: url(red-light-blue-gradient-background-260nw-1508143130.webp);
+    background-image : url(pexels-pixabay-531880.jpg);
+    repeat: no-repeat;
 }
 
 .center{
@@ -10,12 +11,12 @@ body{
 
 h1{
     text-align: center;
-    color: rgb(104, 20, 20);
+    color: white;
 }
 
 h2{
     text-align: center;
-    color: blue;
+    color: white;
 }
 
 
@@ -26,8 +27,8 @@ button{
 }
 
 button:hover{
-    background-color: blue;
-    border: 3px solid red;
+    background-color: rgb(214, 144, 144);
+    border: 3px solid green;
     transition: 0.3s ease-out;
     cursor: pointer;
 }
